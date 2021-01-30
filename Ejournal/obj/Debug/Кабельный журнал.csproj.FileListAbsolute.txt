@@ -1,0 +1,59 @@
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.exe.config
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.exe
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.pdb
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csprojAssemblyReference.cache
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Form1.resources
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Properties.Resources.resources
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csproj.GenerateResource.cache
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csproj.CoreCompileInputs.cache
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.exe
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.pdb
+C:\Users\ROMAN\Desktop\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Login.resources
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csprojAssemblyReference.cache
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Form1.resources
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Login.resources
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Properties.Resources.resources
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csproj.GenerateResource.cache
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csproj.CoreCompileInputs.cache
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.exe
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.pdb
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.exe.config
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.exe
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.pdb
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.InputData.resources
+G:\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.exe.config
+G:\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.exe
+G:\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.pdb
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csprojAssemblyReference.cache
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Form1.resources
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.InputData.resources
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Login.resources
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Properties.Resources.resources
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csproj.GenerateResource.cache
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csproj.CoreCompileInputs.cache
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.exe
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.pdb
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.SaveData.resources
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Results.resources
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.ChangeData.resources
+G:\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.EditData.resources
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.ChangeData.resources
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.EditData.resources
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Results.resources
+C:\Users\ROMAN\Desktop\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.SaveData.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.exe.config
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.exe
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\bin\Debug\Кабельный журнал.pdb
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csprojAssemblyReference.cache
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.ChangeData.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.EditData.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Form1.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.InputData.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Login.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Properties.Resources.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.Results.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный_журнал.SaveData.resources
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csproj.GenerateResource.cache
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.csproj.CoreCompileInputs.cache
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.exe
+D:\Магистратура\Диплом\Кабельный журнал\Кабельный журнал\obj\Debug\Кабельный журнал.pdb

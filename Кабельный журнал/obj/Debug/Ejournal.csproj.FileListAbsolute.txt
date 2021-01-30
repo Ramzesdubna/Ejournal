@@ -1,0 +1,18 @@
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Ejournal.csprojAssemblyReference.cache
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный_журнал.ChangeData.resources
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный_журнал.EditData.resources
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный_журнал.Form1.resources
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный_журнал.InputData.resources
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный_журнал.Login.resources
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный_журнал.Properties.Resources.resources
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный_журнал.Results.resources
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный_журнал.SaveData.resources
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Ejournal.csproj.GenerateResource.cache
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Ejournal.csproj.CoreCompileInputs.cache
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный журнал.exe
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\obj\Debug\Кабельный журнал.pdb
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\bin\Debug\Database.mdf
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\bin\Debug\Database_log.ldf
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\bin\Debug\Кабельный журнал.exe.config
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\bin\Debug\Кабельный журнал.exe
+D:\Магистратура\Дисер\Ejournal\Кабельный журнал\bin\Debug\Кабельный журнал.pdb

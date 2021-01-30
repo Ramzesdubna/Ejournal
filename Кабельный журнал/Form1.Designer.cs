@@ -47,17 +47,14 @@
             this.label8 = new System.Windows.Forms.Label();
             this.clampBox = new System.Windows.Forms.ComboBox();
             this.label9 = new System.Windows.Forms.Label();
+            this.buildingBox = new System.Windows.Forms.ComboBox();
+            this.label10 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // systemBox
             // 
             this.systemBox.FormattingEnabled = true;
-            this.systemBox.Items.AddRange(new object[] {
-            "01 - Вакуумная система",
-            "02 - СВЧ",
-            "03 - Система охлаждения установки",
-            "04 - Система термостабилизации установки"});
-            this.systemBox.Location = new System.Drawing.Point(12, 58);
+            this.systemBox.Location = new System.Drawing.Point(12, 156);
             this.systemBox.Name = "systemBox";
             this.systemBox.Size = new System.Drawing.Size(182, 21);
             this.systemBox.TabIndex = 0;
@@ -65,12 +62,7 @@
             // clampblockBox
             // 
             this.clampblockBox.FormattingEnabled = true;
-            this.clampblockBox.Items.AddRange(new object[] {
-            "306-03.01 - Клеммный блок №1 шкафа №3 в помещении 306",
-            "306-03.03 - Клеммный блок №3 шкафа №3 в помещении 306",
-            "205-01.01 - Клеммный блок №1 шкафа №1 в помещении 205",
-            "306-01.02 - Клеммный блок №2 шкафа №1 в помещении 306"});
-            this.clampblockBox.Location = new System.Drawing.Point(12, 156);
+            this.clampblockBox.Location = new System.Drawing.Point(12, 234);
             this.clampblockBox.Name = "clampblockBox";
             this.clampblockBox.Size = new System.Drawing.Size(182, 21);
             this.clampblockBox.TabIndex = 1;
@@ -78,11 +70,7 @@
             // lockerBox
             // 
             this.lockerBox.FormattingEnabled = true;
-            this.lockerBox.Items.AddRange(new object[] {
-            "306-01 Шкаф оборудования №1 в помещении 306",
-            "306-03 Шкаф оборудования №3 в помещении 306",
-            "205-01 Шкаф оборудования №1 в помещении 205"});
-            this.lockerBox.Location = new System.Drawing.Point(618, 58);
+            this.lockerBox.Location = new System.Drawing.Point(618, 156);
             this.lockerBox.Name = "lockerBox";
             this.lockerBox.Size = new System.Drawing.Size(182, 21);
             this.lockerBox.TabIndex = 2;
@@ -90,11 +78,7 @@
             // roomBox
             // 
             this.roomBox.FormattingEnabled = true;
-            this.roomBox.Items.AddRange(new object[] {
-            "205",
-            "306",
-            "122"});
-            this.roomBox.Location = new System.Drawing.Point(419, 58);
+            this.roomBox.Location = new System.Drawing.Point(419, 156);
             this.roomBox.Name = "roomBox";
             this.roomBox.Size = new System.Drawing.Size(182, 21);
             this.roomBox.TabIndex = 3;
@@ -103,7 +87,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(12, 32);
+            this.label1.Location = new System.Drawing.Point(8, 110);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(71, 19);
             this.label1.TabIndex = 4;
@@ -113,7 +97,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(614, 32);
+            this.label2.Location = new System.Drawing.Point(614, 110);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(163, 19);
             this.label2.TabIndex = 5;
@@ -123,7 +107,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label3.Location = new System.Drawing.Point(415, 32);
+            this.label3.Location = new System.Drawing.Point(415, 110);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(94, 19);
             this.label3.TabIndex = 6;
@@ -133,7 +117,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label4.Location = new System.Drawing.Point(9, 125);
+            this.label4.Location = new System.Drawing.Point(8, 192);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(129, 19);
             this.label4.TabIndex = 7;
@@ -143,7 +127,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label5.Location = new System.Drawing.Point(417, 125);
+            this.label5.Location = new System.Drawing.Point(415, 192);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(92, 19);
             this.label5.TabIndex = 8;
@@ -154,7 +138,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label6.Location = new System.Drawing.Point(614, 125);
+            this.label6.Location = new System.Drawing.Point(614, 192);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(101, 19);
             this.label6.TabIndex = 9;
@@ -163,7 +147,7 @@
             // BtnEnterElement
             // 
             this.BtnEnterElement.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BtnEnterElement.Location = new System.Drawing.Point(219, 256);
+            this.BtnEnterElement.Location = new System.Drawing.Point(223, 327);
             this.BtnEnterElement.Name = "BtnEnterElement";
             this.BtnEnterElement.Size = new System.Drawing.Size(148, 23);
             this.BtnEnterElement.TabIndex = 10;
@@ -174,7 +158,7 @@
             // BtnEnter
             // 
             this.BtnEnter.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BtnEnter.Location = new System.Drawing.Point(419, 256);
+            this.BtnEnter.Location = new System.Drawing.Point(419, 327);
             this.BtnEnter.Name = "BtnEnter";
             this.BtnEnter.Size = new System.Drawing.Size(148, 23);
             this.BtnEnter.TabIndex = 11;
@@ -185,12 +169,7 @@
             // TypeBox
             // 
             this.TypeBox.FormattingEnabled = true;
-            this.TypeBox.Items.AddRange(new object[] {
-            "ПВС 3*1,5",
-            "ВВГ 3*2,5",
-            "ПВС 2*0,75",
-            "UTP 8*0,29"});
-            this.TypeBox.Location = new System.Drawing.Point(419, 156);
+            this.TypeBox.Location = new System.Drawing.Point(419, 234);
             this.TypeBox.Name = "TypeBox";
             this.TypeBox.Size = new System.Drawing.Size(182, 21);
             this.TypeBox.TabIndex = 12;
@@ -198,10 +177,7 @@
             // markingBox
             // 
             this.markingBox.FormattingEnabled = true;
-            this.markingBox.Items.AddRange(new object[] {
-            "01.306-03.01-12:01.205-01.01-09",
-            "03.306-01.02-08:03.205-00.00-05"});
-            this.markingBox.Location = new System.Drawing.Point(618, 156);
+            this.markingBox.Location = new System.Drawing.Point(618, 234);
             this.markingBox.Name = "markingBox";
             this.markingBox.Size = new System.Drawing.Size(182, 21);
             this.markingBox.TabIndex = 13;
@@ -209,7 +185,7 @@
             // subsystemBox
             // 
             this.subsystemBox.FormattingEnabled = true;
-            this.subsystemBox.Location = new System.Drawing.Point(214, 58);
+            this.subsystemBox.Location = new System.Drawing.Point(214, 156);
             this.subsystemBox.Name = "subsystemBox";
             this.subsystemBox.Size = new System.Drawing.Size(182, 21);
             this.subsystemBox.TabIndex = 14;
@@ -225,7 +201,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label8.Location = new System.Drawing.Point(215, 32);
+            this.label8.Location = new System.Drawing.Point(210, 110);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(95, 19);
             this.label8.TabIndex = 15;
@@ -234,7 +210,7 @@
             // clampBox
             // 
             this.clampBox.FormattingEnabled = true;
-            this.clampBox.Location = new System.Drawing.Point(214, 156);
+            this.clampBox.Location = new System.Drawing.Point(214, 234);
             this.clampBox.Name = "clampBox";
             this.clampBox.Size = new System.Drawing.Size(182, 21);
             this.clampBox.TabIndex = 16;
@@ -243,17 +219,37 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label9.Location = new System.Drawing.Point(219, 125);
+            this.label9.Location = new System.Drawing.Point(219, 192);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(68, 19);
             this.label9.TabIndex = 17;
             this.label9.Text = "Клемма";
+            // 
+            // buildingBox
+            // 
+            this.buildingBox.FormattingEnabled = true;
+            this.buildingBox.Location = new System.Drawing.Point(618, 58);
+            this.buildingBox.Name = "buildingBox";
+            this.buildingBox.Size = new System.Drawing.Size(182, 21);
+            this.buildingBox.TabIndex = 18;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label10.Location = new System.Drawing.Point(618, 13);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(59, 19);
+            this.label10.TabIndex = 19;
+            this.label10.Text = "Здание";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(868, 383);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.buildingBox);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.clampBox);
             this.Controls.Add(this.label8);
@@ -302,6 +298,8 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.ComboBox clampBox;
         private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.ComboBox buildingBox;
+        private System.Windows.Forms.Label label10;
     }
 }
 

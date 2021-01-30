@@ -33,18 +33,20 @@ namespace Кабельный_журнал
 
             SqlDataReader sqlReader = null;
 
-            SqlCommand command = new SqlCommand("SELECT * FROM [Systems]", sqlConnect);
-
+            SqlCommand command1 = new SqlCommand("SELECT * FROM [Systems], [Buildings], [Rooms] HAVING COUNT(*)>1", sqlConnect);
+            
             try
             {
-                sqlReader = await command.ExecuteReaderAsync();
+                sqlReader = await command1.ExecuteReaderAsync();
 
                 while (await sqlReader.ReadAsync())
                 {
                     systemBox.Items.Add(Convert.ToString(sqlReader["Number_of_system"]) + " " + Convert.ToString(sqlReader["Name_of_system"]));
                     subsystemBox.Items.Add(Convert.ToString(sqlReader["Number_of_subsystem"]) + " " + Convert.ToString(sqlReader["Name_of_subsystem"]));
-
+                    buildingBox.Items.Add(Convert.ToString(sqlReader["Building"]));
+                    roomBox.Items.Add(Convert.ToString(sqlReader["Number_of_room"]));
                 }
+                
             }
             catch (Exception ex)
             {
@@ -54,7 +56,7 @@ namespace Кабельный_журнал
             {
                 if (sqlReader != null)
                     sqlReader.Close();
-            }
+            }            
         }
 
         private void label5_Click(object sender, EventArgs e)
